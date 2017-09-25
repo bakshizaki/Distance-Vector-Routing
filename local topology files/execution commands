@@ -1,0 +1,5 @@
+cd ~/workspace/589_p2/bin/Debug; ./589_p2 -t t1.txt -i 5
+cd ~/workspace/589_p2/bin/Debug; ./589_p2 -t t2.txt -i 5
+cd ~/workspace/589_p2/bin/Debug; ./589_p2 -t t3.txt -i 5
+cd ~/workspace/589_p2/bin/Debug; ./589_p2 -t t4.txt -i 5
+cd ~/workspace/589_p2/bin/Debug; ./589_p2 -t t5.txt -i 5

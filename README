@@ -1,0 +1,6 @@
+To build the project use
+>> make
+To clean the project use
+>> make clean
+
+Starting and user command should work the way they are mentioned in the project description
